@@ -12,7 +12,7 @@ namespace Pedidos.App_Code
         string servidor = "localhost";
         string banco = "Pedidos";
         string usuario = "sa";
-        string senha = "Ceo1991@";
+        string senha = "";
         string strcon = "";
 
         public void Conectar()
